@@ -1,5 +1,21 @@
 # Hi, I'm Bamidele Adedeji
 ### Data Scientist | Healthcare Analytics | Machine Learning Engineer
+##  Project Portfolio
+
+###  [Breast Cancer Diagnostic Classification](https://github.com/bamideleadeji/breast-cancer-svm)
+* **Problem:** Early detection of malignant tumors using cellular measurements.
+* **Key Skill:** **SVM** with high-recall optimization (98%) and **Multicollinearity** handling.
+* **Tech:** Python, Scikit-Learn, Seaborn.
+
+###  [Heart Disease Risk Prediction](https://github.com/bamideleadeji/heart-disease-logistic-regression)
+* **Problem:** Predicting patient cardiac risk based on clinical indicators.
+* **Key Skill:** **Logistic Regression** and Feature Importance analysis.
+* **Tech:** Pandas, Matplotlib.
+
+###  [Hospital No-Show: Operational Intelligence](https://github.com/bamideleadeji/hospital-noshow-bi)
+* **Problem:** Reducing revenue loss by predicting appointment attendance.
+* **Key Skill:** **Random Forest** and custom **Data Simulation Engine** to overcome technical blocks.
+* **Tech:** Random Forest, Data Simulation.
 
 I specialize in transforming complex healthcare and operational data into actionable insights. My work focuses on high-stakes predictive modeling, ranging from clinical cancer diagnostics to optimizing hospital efficiency.
 
