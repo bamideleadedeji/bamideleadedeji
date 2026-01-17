@@ -1,5 +1,6 @@
 # Hi, I'm Bamidele Adedeji
 ### Data Scientist | Healthcare Analytics | Machine Learning Engineer
+### SQL & Data Engineering: Architected a relational SQLite database for hospital operations, using complex JOINs and date functions to reduce appointment no-shows
 ##  Project Portfolio
 
 ###  [Breast Cancer Diagnostic Classification](https://github.com/bamideleadeji/breast-cancer-svm)
